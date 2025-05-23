@@ -1,1 +1,1 @@
-# jupyterlabai.github.io
+# JupyterLab AI
